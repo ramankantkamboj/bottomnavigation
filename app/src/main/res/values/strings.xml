@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">bottomnavigation</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_winners">Winners</string>
+    <string name="text_bid">Bid</string>
+    <string name="text_profile">Profile</string>
+    <string name="text_buybids">Buy Bids</string>
+</resources>
